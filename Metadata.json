@@ -1,0 +1,20 @@
+{
+    "Author": "William (Microsoft)",
+    "ContentSize": 58620,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/internet-facing-load-balancer-in-arm/master/1.4_ARM_Azure_Load_Balancer.ps1",
+    "DownloadCount": 676,
+    "Id": "Internet-facing-load-ac024490",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 498,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2016-9-8T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Build example IPv4 or IPv6 public\\private IP address load balancer Resource Manager using PowerShell",
+    "Title": "Internet facing load balancer in ARM",
+    "UpdatedDate": "2016-9-27T00:00:00",
+    "Url": "https://github.com/azureautomation/internet-facing-load-balancer-in-arm",
+    "UserTags": "Azure, Microsoft Azure, IPV4"
+}
